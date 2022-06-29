@@ -1,0 +1,4 @@
+Requirements:
+1.Create search bar
+2.create a menu
+3.add an image
